@@ -1,5 +1,3 @@
-# Motion-Tracking-Trajectory
-
 # Motion Trajectory Tracker (OpenCV)
 
 ## Overview
